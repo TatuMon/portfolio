@@ -8,7 +8,7 @@ export default function Home() {
         Juan Cruz Montiel<br/>
       </h1>
       <h1>
-        Fullstack <span className={styles.csharp}>C#</span> Developer
+        Fullstack Developer
       </h1>
 
       <p className={styles.description}>
